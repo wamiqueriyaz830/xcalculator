@@ -27,6 +27,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2>React Calculator</h2>
       <div className="input-box">
         <input type="text" value={expression} readOnly />
       </div>
